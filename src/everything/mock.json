@@ -1,0 +1,1183 @@
+{
+    "title": "Balance Sheet",
+    "text": {
+        "0": {
+            "label": "Financial Row",
+            "alias": null,
+            "isDetailLine": false,
+            "value": null,
+            "parent": null,
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -10750.399999999998
+                }
+            ]
+        },
+        "1": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "ASSETS",
+            "parent": null,
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -2687.6
+                }
+            ]
+        },
+        "2": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "3": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "4": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Current Assets",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -2687.6
+                }
+            ]
+        },
+        "5": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "6": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "7": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Bank",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -2690.35
+                }
+            ]
+        },
+        "8": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Checking",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "9": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "10": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Payroll",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 2690.35
+                }
+            ]
+        },
+        "11": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 2690.35
+                }
+            ]
+        },
+        "12": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Accounts Receivable",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "13": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Unbilled Receivable",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "14": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Other Current Asset",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 2.75
+                }
+            ]
+        },
+        "15": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Accumulated Depreciation",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "16": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "17": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Advances Paid",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "18": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "19": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Inventory Asset",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -2.75
+                }
+            ]
+        },
+        "20": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": -2.75
+                }
+            ]
+        },
+        "21": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Inventory Returned Not Credited",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "22": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "23": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Payroll Float",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "24": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "25": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Undeposited Funds",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "26": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "27": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Total Current Assets",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -2687.6
+                }
+            ]
+        },
+        "28": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "29": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "30": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Fixed Assets",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "31": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Acc. Dep-Building",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -75
+                }
+            ]
+        },
+        "32": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": -75
+                }
+            ]
+        },
+        "33": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Acc. Dep-Furniture & Fixtures",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 75
+                }
+            ]
+        },
+        "34": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 75
+                }
+            ]
+        },
+        "35": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Other Assets",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "36": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Total ASSETS",
+            "parent": null,
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -2687.6
+                }
+            ]
+        },
+        "37": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "38": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "39": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Liabilities & Equity",
+            "parent": null,
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -2687.5999999999995
+                }
+            ]
+        },
+        "40": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "41": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "42": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Current Liabilities",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 2642.59
+                }
+            ]
+        },
+        "43": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "44": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "45": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Accounts Payable",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 502.75
+                }
+            ]
+        },
+        "46": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Accounts Payable",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 502.75
+                }
+            ]
+        },
+        "47": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 502.75
+                }
+            ]
+        },
+        "48": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Credit Card",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "49": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Other Current Liability",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 2139.84
+                }
+            ]
+        },
+        "50": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Accrued Wages",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "51": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "52": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Inventory Received Not Billed",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "53": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "54": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": "Payroll Liabilities",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 2139.84
+                }
+            ]
+        },
+        "55": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": 2139.84
+                }
+            ]
+        },
+        "56": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Total Current Liabilities",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 2642.59
+                }
+            ]
+        },
+        "57": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "58": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "59": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Long Term Liabilities",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "60": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Equity",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -5330.19
+                }
+            ]
+        },
+        "61": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "62": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "63": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Equity",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "64": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Retained Earnings",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -5330.19
+                }
+            ]
+        },
+        "65": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "66": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "67": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Retained Earnings (Account Section)",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "68": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Net Income (Balance Forward to Beginning of Year)",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -5330.19
+                }
+            ]
+        },
+        "69": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "70": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "71": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Total Retained Earnings",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -5330.19
+                }
+            ]
+        },
+        "72": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "73": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "74": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Net Income",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "75": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "76": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "77": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Cumulative Translation Adjustment",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": 0
+                }
+            ]
+        },
+        "78": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Total Equity",
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -5330.19
+                }
+            ]
+        },
+        "79": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "80": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        },
+        "81": {
+            "label": "Financial Row",
+            "alias": "finandim_srawfullname",
+            "isDetailLine": false,
+            "value": "Total Liabilities & Equity",
+            "parent": null,
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": -2687.5999999999995
+                }
+            ]
+        },
+        "82": {
+            "label": null,
+            "alias": "finandim_srawvalidname",
+            "isDetailLine": false,
+            "value": null,
+            "parent": "finandim_srawfullname",
+            "summaryLine": null,
+            "openingLine": null,
+            "summaryLineValues": [
+                {
+                    "Amount": "NaN"
+                }
+            ]
+        },
+        "83": {
+            "label": null,
+            "alias": null,
+            "isDetailLine": true,
+            "value": null,
+            "parent": "finandim_srawvalidname",
+            "summaryLine": null,
+            "openingLine": null,
+            "detailLineValues": [
+                {
+                    "Amount": null
+                }
+            ]
+        }
+    },
+    "id": "-202",
+    "url": "https://netsuite.com/app/reporting/reportrunner.nl?cr=-202"
+}

@@ -155,7 +155,7 @@ app.delete('/mcp', async (req: Request, res: Response) => {
 });
 
 // Start the server
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3223;
 app.listen(PORT, () => {
   console.error(`MCP Streamable HTTP Server listening on port ${PORT}`);
 });
